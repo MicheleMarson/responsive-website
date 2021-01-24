@@ -342,7 +342,6 @@ footer{
 @media (max-width:400px){
     .nav-all{
         height: 80%;
-        overflow: auto;
     }
 
     .grid-container{
