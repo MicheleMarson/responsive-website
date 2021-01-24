@@ -286,6 +286,7 @@ footer{
         right: 0px;
         text-align: center;
         background-color: #000;
+        z-index: 5;
     }
 
     .grid-container{
